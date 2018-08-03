@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Yatil Etherly
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project uses information from a movie database, queries it, and makes it display through the use of search paramaters
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX methods
+2. What an API is and the uses of them
+3. How to use an API to create an application
